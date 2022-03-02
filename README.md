@@ -2,9 +2,6 @@
 A PL/PGSQL Package to create EXCEL workbooks. This package enables developers to export data from an RDS or Aurora PostgreSQL database to Excel files using simple PL/PGSQL functions and procedures.
 
 
-Installation
-
-
 1. Create aws_s3 extension
 ```
 excel_test=> create extension aws_s3 CASCADE;

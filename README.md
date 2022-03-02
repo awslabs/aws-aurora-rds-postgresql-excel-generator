@@ -1,4 +1,3 @@
-PGEXCEL_BUILDER_PKG
 
 A PL/PGSQL Package to create EXCEL workbooks. This package enables developers to export data from an RDS or Aurora PostgreSQL database to Excel files using simple PL/PGSQL functions and procedures.
 
